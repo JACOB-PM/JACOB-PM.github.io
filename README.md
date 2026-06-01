@@ -12,6 +12,14 @@
 
 [GitHub Pages 版本](https://jacob-pm.github.io/)
 
+## 连接测试
+
+如果手机微信打不开游戏，可以先测试这个极简页面：
+
+[连接测试页](https://jacob-pm.github.io/ping.html)
+
+如果连接测试页也打不开，说明问题在手机微信/当前网络访问 GitHub Pages，而不是游戏代码。
+
 ## 说明
 
 - 如果 GitHub Pages 在手机上打不开，可以优先使用“手机推荐”链接。
